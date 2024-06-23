@@ -1,0 +1,24 @@
+* {
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 44px;
+    color: gray;
+}
+
+em#speech {
+    font-size: 21.5px;
+    font-family: cursive;
+}
+
+.mid {
+    background-color: aliceblue;
+}
+
+/* Center image */
+.cimg {
+
+}
